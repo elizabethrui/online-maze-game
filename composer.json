@@ -1,7 +1,7 @@
 {
-    "name": "josecdavila/aga.io-games-tutorial",
-    "description": "Bagario Framework.",
-    "keywords": ["framework", "bagario"],
+    "name": "elizabethrui/online-maze-game",
+    "description": "Scarymazezgame Framework.",
+    "keywords": ["framework", "scarymaze"],
     "license": "MIT",
     "type": "project",
     "require": {
